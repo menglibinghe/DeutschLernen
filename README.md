@@ -1,0 +1,1 @@
+Collaborating with Qianwen AI tool, I built this program, hoping to improve memorizing German vocabulary. I wish you can enjoy the process by playing a crosswords-puzzle while learning new German words.
